@@ -1,0 +1,207 @@
+[
+  {
+      "question": "Ava pointed to side AB and asked, 'What is the name of the vertex opposite to side AB?'",
+      "options": [
+          "B",
+          "C",
+          "A"
+      ],
+      "correct": 1,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+      "question": "Ava pointed to side BC and asked, 'What is the name of the vertex opposite to side BC?'",
+      "options": [
+          "B",
+          "C",
+          "A"
+      ],
+      "correct": 2,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+      "question": "The explorers found a triangle with all different sides. 'What type of triangle is this?'",
+      "options": [
+          "Isosceles Triangle",
+          "Equilateral Triangle",
+          "Scalene Triangle"
+      ],
+      "correct": 2,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+      "question": "Ava noticed another triangle where two sides were equal. 'What type of triangle is this?'",
+      "options": [
+          "Scalene Triangle",
+          "Isosceles Triangle",
+          "Equilateral Triangle"
+      ],
+      "correct": 1,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+      "question": "Zoe spotted a triangle shown below in the figure. 'What type of triangle is this?'",
+      "options": [
+          "Right Angled Triangle",
+          "Acute Triangle",
+          "Obtuse Triangle"
+      ],
+      "correct": 0,
+      "img": "./assests/images/5.jpg"
+  },
+  {
+      "question": "Ava drew a triangle as shown below in the figure. 'What kind of triangle is this?'",
+      "options": [
+          "Acute Triangle",
+          "Right Angled Triangle",
+          "Obtuse Triangle"
+      ],
+      "correct": 2,
+      "img": "./assests/images/6.jpg"
+  },
+  {
+      "question": "Noah drew a triangle with one angle of exactly 90°. 'What kind of triangle is this?'",
+      "options": [
+          "Acute Triangle",
+          "Right Angled Triangle",
+          "Obtuse Triangle"
+      ],
+      "correct": 1,
+      "img": "./assests/images/7.jpg"
+  },
+  {
+      "question": "Zoe drew a triangle shown below in the figure. 'What kind of triangle is this?'",
+      "options": [
+          "Right Angled Triangle",
+          "Acute Triangle",
+          "Obtuse Triangle"
+      ],
+      "correct": 1,
+      "img": "./assests/images/8.jpg"
+  },
+  {
+      "question": "The explorers examined a triangle shown below. 'Is this triangle isosceles?'",
+      "options": [
+          "Yes",
+          "No"
+      ],
+      "correct": 1,
+      "img": "./assests/images/9.jpg"
+  },
+  {
+      "question": "Ava asked, 'What is a triangle whose all sides are equal called?'",
+      "options": [
+          "An Equilateral Triangle",
+          "An Acute Triangle",
+          "A Right Triangle",
+          "An Isosceles Triangle"
+      ],
+      "correct": 0,
+      "img": "./assests/images/10.jpg"
+  },
+  {
+      "question": "As Ava, Noah, and Zoe journeyed through Shapewood, they encountered △QRS at the base of a towering peak. They need to find the largest side of △QRS.",
+      "options": [
+          "QS",
+          "QR",
+          "RS"
+      ],
+      "correct": 2,
+      "img": "./assests/images/11.jpg"
+  },
+  {
+      "question": "In a hidden valley, the explorers discovered Triangle XYZ etched into a rock. To unlock the next clue, they had to find the largest angle. Find the largest angle of △XYZ.",
+      "options": [
+          "∠X",
+          "∠Y",
+          "∠Z"
+      ],
+      "correct": 0,
+      "img": "./assests/images/12.jpg"
+  },
+  {
+      "question": "During their trek, Ava, Noah, and Zoe found Triangle GHI marked on an ancient tree. To navigate through the forest, they needed to know the largest side. Find the largest side of △GHI.",
+      "options": [
+          "HI",
+          "GI",
+          "GH"
+      ],
+      "correct": 0,
+      "img": "./assests/images/13.jpg"
+  },
+  {
+      "question": "At the entrance of a secret cave, the explorers faced a diagram with unknown angles. Calculate the unknown exterior angle x to unlock the cave door.",
+      "options": [
+          "120°",
+          "65°",
+          "110°",
+          "100°"
+      ],
+      "correct": 2,
+      "img": "./assests/images/14.jpg"
+  },
+  {
+      "question": "While crossing a river, Ava, Noah, and Zoe saw a diagram engraved on a stone. To find the safe path, they needed to determine the unknown exterior angle x.",
+      "options": [
+          "140°",
+          "110°",
+          "120°",
+          "130°"
+      ],
+      "correct": 2,
+      "img": "./assests/images/15.jpg"
+  },
+  {
+      "question": "Facing another puzzle, the explorers needed to verify the properties of Triangle ΔABC. Which of the given conditions holds?",
+      "options": [
+          "AB − BC > CA",
+          "AB + BC < CA",
+          "AB - BC < CA",
+          "AB + CA < BC"
+      ],
+      "correct": 2,
+      "img": "./assests/images/16.jpg"
+  },
+  {
+      "question": "Elder Sage posed a challenging question to test the explorers' understanding of triangles. Is it possible to have a triangle with sides 3 cm, 6 cm, and 7 cm. What is the answer?",
+      "options": [
+          "Yes",
+          "No"
+      ],
+      "correct": 0,
+      "img": "./assests/images/17.jpg"
+  },
+  {
+      "question": "As they continued their journey, they stumbled upon another triangle diagram with an unknown angle m. Find the value of the unknown angle m.",
+      "options": [
+          "30°",
+          "40°",
+          "50°",
+          "60°"
+      ],
+      "correct": 1,
+      "img": "./assests/images/18.jpg"
+  },
+  {
+      "question": "While resting by a stream, the explorers found another triangle diagram with an unknown angle x. Solving it was crucial to finding their next clue.",
+      "options": [
+          "70°",
+          "60°",
+          "50°",
+          "40°"
+      ],
+      "correct": 0,
+      "img": "./assests/images/19.jpg"
+  },
+  {
+      "question": "In a dense part of the forest, they encountered yet another diagram requiring them to find the value of x to light their way forward.",
+      "options": [
+          "35°",
+          "65°",
+          "55°",
+          "45°"
+      ],
+      "correct": 3,
+      "img": "./assests/images/20.jpg"
+  }
+]
